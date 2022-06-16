@@ -1,8 +1,8 @@
 ### 
 <div>
-  <a>Sou formado pelo IFES( Instituto Federal do Espírito Santo) como Técnico em Informática e graduando em Análise e Desenvolvimento de Sistemas, também   pelo IFES.</a> 
-  <a>Procuro oportunidades para obter  experiências, na área de Programação em geral.</a>
-  <a>Estou sempre disposto a aprender novas linguagens de programação e aprender a lidar com novas tecnologias.</a>
+  <a>Sou formado pelo IFES( Instituto Federal do Espírito Santo) como Técnico em Informática e graduando em Análise e Desenvolvimento de Sistemas, também   pelo IFES.</a> </br> 
+  <a>Procuro oportunidades para obter  experiências, na área de Programação em geral.</a></br> 
+  <a>Estou sempre disposto a aprender novas linguagens de programação e aprender a lidar com novas tecnologias.</a></br> 
 </div>
   
 <div align="center">
