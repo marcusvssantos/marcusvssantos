@@ -1,8 +1,10 @@
 ### 
-Sou formado pelo IFES( Instituto Federal do Espírito Santo) como Técnico em Informática e graduando em Análise e Desenvolvimento de Sistemas, também pelo IFES. 
-Procuro oportunidades para obter  experiências, na área de Programação em geral.
-Estou sempre disposto a aprender novas linguagens de programação e aprender a lidar com novas tecnologias.
-
+<div>
+  <a>Sou formado pelo IFES( Instituto Federal do Espírito Santo) como Técnico em Informática e graduando em Análise e Desenvolvimento de Sistemas, também   pelo IFES.</a> 
+  <a>Procuro oportunidades para obter  experiências, na área de Programação em geral.</a>
+  <a>Estou sempre disposto a aprender novas linguagens de programação e aprender a lidar com novas tecnologias.</a>
+</div>
+  
 <div align="center">
   <a href="https://github.com/marcusvssantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusvssantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
