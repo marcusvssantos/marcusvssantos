@@ -1,4 +1,7 @@
 ### 
+Sou formado pelo IFES( Instituto Federal do Espírito Santo) como Técnico em Informática e graduando em Análise e Desenvolvimento de Sistemas, também pelo IFES. 
+Procuro oportunidades para obter  experiências, na área de Programação em geral.
+Estou sempre disposto a aprender novas linguagens de programação e aprender a lidar com novas tecnologias.
 
 <div align="center">
   <a href="https://github.com/marcusvssantos">
