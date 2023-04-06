@@ -1,6 +1,6 @@
 ### 
 <div>
-  <a>Sou formado pelo IFES( Instituto Federal do Espírito Santo) como Técnico em Informática e graduando em Análise e Desenvolvimento de Sistemas, também   pelo IFES    
+  <a>Sou formado em Técnico em Informática pelo Instituto Federal do Espírito Santo (IFES) e atualmente estou cursando Análise e Desenvolvimento de Sistemas, também pelo IFES.   
 
    <div style="display: inline_block"><br>
   <img align="center" alt="M-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
