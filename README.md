@@ -1,6 +1,10 @@
 ### 
 <div>
-  <a>Sou formado em Técnico em Informática pelo Instituto Federal do Espírito Santo (IFES) e atualmente estou cursando Análise e Desenvolvimento de Sistemas, também pelo IFES.   
+  <a> Sou formado em Técnico em Informática pelo Instituto Federal do Espírito Santo (IFES) e atualmente estou cursando Análise e Desenvolvimento de Sistemas, também pelo IFES. <br><br>
+
+
+   Atualmente atuo como desenvolvedor Full Stack no projeto SIGEX da FAPES. Estamos desenvolvendo uma aplicação web para o Tribunal de Justiça do Espírito Santo (TJES), voltado para os cartórios.
+  Algumas das tecnologias utilizadas para o desenvolvimento do projeto são: Java, Spring Boot, Angular,Typescript, PostgreSQL, Hibernate, Docker e GitLab.
 
    <div style="display: inline_block"><br>
   <img align="center" alt="M-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
